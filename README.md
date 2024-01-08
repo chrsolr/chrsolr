@@ -1,16 +1,51 @@
-### Hi there 👋
+## Christian "chrsolr" Soler
 
-<!--
-**chrsolr/chrsolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>
+<a href="https://chrsolr.me">[website]</a> 
+:|: <a href="https://github.com/chrsolr/">[github]</a>
+:|: <a href="https://www.linkedin.com/in/christiansoler/">[linkedin]</a>
+:|: <a href="https://codesandbox.io/u/chrsolr">[codesandbox]</a>
+</span>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated Full Stack Developer with over six years of extensive experience in conceiving, designing, and executing applications and solutions using a diverse array of programming languages and technologies. I take great pride in my work and am known for my unwavering self-motivation, adept problem-solving abilities, and a strong inclination towards thriving in collaborative, high-pressure project environments.
+
+```
+-- [[ About Me ]]
+--
+[ Name ] -> :|: Christian Soler
+[ Job Title ] -> :|: Software Engineer
+[ Location ] -> :|: Texas
+[ From ] -> :|: Puerto Rico
+
+
+-- [[ My Workspace Environment ]]
+--
+[ Tools ] -> :|: NeoVim :|: Alacritty :|: Tmux :|: Linux
+
+
+-- [[ Work Experience ]]
+--
+[ Full Stack Developer ] -> :|: Innowatts Inc :|: 2018-Current
+[ Software Engineer ] -> :|: Preventice Solutions :|: 2015-2018
+[ ASP.NET Junior Full-Stack Developer ] -> :|: CoderCamps :|: 2014-2015
+
+
+-- [[ Interests/Hobbies ]]
+--
+[ Tech ] -> Web Development :|: Mobile Development
+[ Hobbies ] -> Learning Random Stuff :|: Competitive Gaming :|: Sports
+
+
+--[[ Currently Learning ]]
+--
+[ Languages ] -> Lua :|: Rust :|: Dotnet
+[ Want to Learn ] -> :|: Raw js :|: Style X :|: HTMX :|: Leptos :|: Machine Learning :|: Tool Development
+```
+
+---
+
+### Skills
+
+![](https://skillicons.dev/icons?i=neovim,ts,js,nodejs,react,docker,k8s,git,tailwind)
