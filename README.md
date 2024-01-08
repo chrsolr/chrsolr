@@ -1,4 +1,4 @@
-## Christian "chrsolr" Soler
+## Hi, I am Christian "chrsolr" Soler
 
 <span>
 <a href="https://chrsolr.me">[website]</a> 
@@ -43,6 +43,14 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 [ Languages ] -> Lua :|: Rust :|: Dotnet
 [ Want to Learn ] -> :|: Raw js :|: Style X :|: HTMX :|: Leptos :|: Machine Learning :|: Tool Development
 ```
+
+---
+
+### Latest Articles
+
+- [Show/Hide Bootstrap Navbar on Scroll](https://www.chrsolr.me/blog/show-hide-bootstrap-navbar-on-scroll) :|: April 4, 2016
+- [Animate Bootstrap Menu Icon To (X)](https://www.chrsolr.me/blog/animate-bootstrap-menu-icon-to-x) :|: March 23, 2016
+- [CoderCamps Bootcamp as a Student](https://www.chrsolr.me/blog/codercamps-bootcamp-as-a-student) :|: July 11, 2015
 
 ---
 
