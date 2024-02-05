@@ -34,14 +34,14 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 -- [[ Interests/Hobbies ]]
 --
-[ Tech ] -> Web Development :|: Mobile Development
-[ Hobbies ] -> Learning Random Stuff :|: Competitive Gaming :|: Sports
+[ Tech ] -> :|: Web Development :|: Mobile Development
+[ Hobbies ] -> :|: Learning Random Stuff :|: Competitive Gaming :|: Sports
 
 
 --[[ Currently Learning ]]
 --
-[ Languages ] -> Lua :|: Rust :|: Dotnet
-[ Want to Learn ] -> :|: Raw js :|: Style X :|: HTMX :|: Leptos :|: Machine Learning :|: Tool Development
+[ Languages ] -> :|: Dotnet Core 8
+[ Want to Learn ] -> :|: Lua :|: Go :|: Rust :|: Raw js :|: Style X :|: HTMX :|: Leptos :|: Machine Learning :|: Tool Development
 ```
 
 ---
