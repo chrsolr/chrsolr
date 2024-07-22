@@ -70,11 +70,7 @@ And for the middle bar icon, we'll be resetting the opacity value back to 1.
 Now we should be able to see the effect. The 3 bars of our navigation menu should turn into an (X) whenever the menu is open and turn back to the 3 bars whenever the menu is close.
 
 ### Here is a Codepen version
-<iframe height="300" style="width: 100%;" scrolling="no" title="Bootstrap Menu Icon to &quot;X&quot;" src="https://codepen.io/chrsolr/embed/OXYpGG?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/chrsolr/pen/OXYpGG">
-  Bootstrap Menu Icon to &quot;X&quot;</a> by Christian Soler (<a href="https://codepen.io/chrsolr">@chrsolr</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+[Animate Bootstrap Menu Icon To (X)](https://codepen.io/chrsolr/pen/OXYpGG)
 
 
 Thank you for reading!!!
