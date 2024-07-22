@@ -1,14 +1,3 @@
----
-title: 'CoderCamps Bootcamp as a Student'
-author: 'Christian Soler'
-date: '2015-07-11'
-slug: 'codercamps-bootcamp-as-a-student'
-summary: 'I know plenty of people are looking into all these different programming Bootcamps. Since I attended one, I would like to share my opinion. I will start by talking about myself, and my programming experience prior to the camp. In addition I will share information about the structure of the camp during my time there.'
-coverImageUrl: '/assets/images/1520081303786.jpeg'
----
-
-![](https://chrsolr.me/assets/images/1520081303786.jpeg)
-
 # CoderCamps Bootcamp as a Student
 
 #### Christian Soler
