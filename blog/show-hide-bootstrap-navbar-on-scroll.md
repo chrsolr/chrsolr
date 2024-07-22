@@ -319,5 +319,4 @@ new NavbarUtils().initHideOnScroll();
 ```
 
 ### Codepen
-<iframe height='300' scrolling='no' title='Hide Navbar on Scroll' src='//codepen.io/Iamrelos/embed/RWbPBa/?height=300&theme-id=15917&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Iamrelos/pen/RWbPBa/'>Hide Navbar on Scroll</a> by Christian Soler (<a href='https://codepen.io/Iamrelos'>@Iamrelos</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+[Hide Navbar on Scroll](https://codepen.io/Iamrelos/pen/RWbPBa/)
