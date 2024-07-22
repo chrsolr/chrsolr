@@ -50,7 +50,7 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 - [Show/Hide Bootstrap Navbar on Scroll](https://www.chrsolr.me/blog/show-hide-bootstrap-navbar-on-scroll) :|: April 4, 2016
 - [Animate Bootstrap Menu Icon To (X)](https://www.chrsolr.me/blog/animate-bootstrap-menu-icon-to-x) :|: March 23, 2016
-- [CoderCamps Bootcamp as a Student](https://www.chrsolr.me/blog/codercamps-bootcamp-as-a-student) :|: July 11, 2015
+- [CoderCamps Bootcamp as a Student](https://github.com/chrsolr/chrsolr/blob/main/blog/codercamps-bootcamp-as-a-student.md) :|: July 11, 2015
 
 ---
 
