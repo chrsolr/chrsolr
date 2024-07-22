@@ -1,3 +1,5 @@
+![](https://chrsolr.me/assets/images/1520081303786.jpeg)
+
 # CoderCamps Bootcamp as a Student
 
 #### Christian Soler
