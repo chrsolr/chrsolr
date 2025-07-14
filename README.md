@@ -1,7 +1,7 @@
 ## Hi, I am Christian "chrsolr" Soler
 
 <span>
-<a href="https://chrsolr.me">[website]</a> 
+<a href="https://noopcall.dev">[website]</a> 
 :|: <a href="https://github.com/chrsolr/">[github]</a>
 :|: <a href="https://www.linkedin.com/in/christiansoler/">[linkedin]</a>
 :|: <a href="https://codesandbox.io/u/chrsolr">[codesandbox]</a>
