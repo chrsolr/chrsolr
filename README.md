@@ -22,7 +22,7 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 -- [[ My Workspace Environment ]]
 --
-[ Tools ] -> :|: NeoVim :|: Alacritty :|: Tmux :|: Linux
+[ Tools ] -> :|: NeoVim :|: Ghostty :|: Tmux :|: Linux
 
 
 -- [[ Work Experience ]]
@@ -40,8 +40,8 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 --[[ Currently Learning ]]
 --
-[ Languages ] -> :|: Dotnet Core 8
-[ Want to Learn ] -> :|: Lua :|: Go :|: Rust :|: Raw js :|: Style X :|: HTMX :|: Leptos :|: Machine Learning :|: Tool Development
+[ Languages ] -> :|: Dotnet
+[ Want to Learn ] -> :|: Lua :|: Go :|: Ruby :|: Tool Development
 ```
 
 ---
