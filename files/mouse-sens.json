@@ -15,7 +15,7 @@
     "ADS": 1,
     "FOV": 110,
     "DPI": 700,
-    "cm_per_360": null,
+    "cm_per_360": 49.0716,
     "Extras": null,
     "Mouse": "Viper"
   },
