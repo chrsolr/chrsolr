@@ -1,0 +1,122 @@
+[
+  {
+    "Game": "Windows",
+    "Hip": 8,
+    "ADS": 8,
+    "FOV": null,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": "Viper | GPro"
+  },
+  {
+    "Game": "Apex Legends",
+    "Hip": 1.16,
+    "ADS": 0.9,
+    "FOV": 110,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": "Viper"
+  },
+  {
+    "Game": "Apex Legends",
+    "Hip": 1.16,
+    "ADS": 0.9,
+    "FOV": 110,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": "GPro"
+  },
+  {
+    "Game": "COD: BO 6",
+    "Hip": 2,
+    "ADS": 1,
+    "FOV": 120,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "Strinova",
+    "Hip": 0.95,
+    "ADS": 0.8,
+    "FOV": null,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "EFT",
+    "Hip": 0.106,
+    "ADS": 0.15,
+    "FOV": 75,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "Marvel Rival",
+    "Hip": 0.75,
+    "ADS": 1,
+    "FOV": null,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "Destiny 2",
+    "Hip": 2,
+    "ADS": 1,
+    "FOV": null,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "Valorant",
+    "Hip": 0.189,
+    "ADS": 1,
+    "FOV": null,
+    "DPI": 1200,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "R6 Siege",
+    "Hip": 52,
+    "ADS": "73/73/75/...",
+    "FOV": 74,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": "Multiplier=0.002",
+    "Mouse": null
+  },
+  {
+    "Game": "World War Z",
+    "Hip": 5,
+    "ADS": "default",
+    "FOV": 1.3,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+  {
+    "Game": "EFT",
+    "Hip": 0.204,
+    "ADS": 1,
+    "FOV": 75,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  }
+]
