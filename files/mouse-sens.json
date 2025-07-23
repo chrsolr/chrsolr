@@ -11,23 +11,13 @@
   },
   {
     "Game": "Apex Legends",
-    "Hip": 1.16,
-    "ADS": 0.9,
+    "Hip": 1.21,
+    "ADS": 1,
     "FOV": 110,
     "DPI": 700,
     "cm_per_360": null,
     "Extras": null,
     "Mouse": "Viper"
-  },
-  {
-    "Game": "Apex Legends",
-    "Hip": 1.16,
-    "ADS": 0.9,
-    "FOV": 110,
-    "DPI": 700,
-    "cm_per_360": null,
-    "Extras": null,
-    "Mouse": "GPro"
   },
   {
     "Game": "COD: BO 6",
