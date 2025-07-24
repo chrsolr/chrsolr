@@ -71,17 +71,17 @@
   },
   {
     "Game": "Valorant",
-    "Hip": 0.189,
+    "Hip": 0.38,
     "ADS": 1,
     "FOV": null,
     "DPI": 1200,
-    "cm_per_360": null,
+    "cm_per_360": 49.1084,
     "Extras": null,
     "Mouse": null
   },
   {
     "Game": "R6 Siege",
-    "Hip": 52,
+    "Hip": 6,
     "ADS": "73/73/75",
     "FOV": 74,
     "DPI": 700,
@@ -106,6 +106,16 @@
     "FOV": 75,
     "DPI": 700,
     "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },
+    {
+    "Game": "Returnal",
+    "Hip": 24,
+    "ADS": 1,
+    "FOV": 15,
+    "DPI": 700,
+    "cm_per_360": 49.341,
     "Extras": null,
     "Mouse": null
   }
