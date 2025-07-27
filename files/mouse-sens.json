@@ -20,12 +20,12 @@
     "Mouse": "Viper"
   },
   {
-    "Game": "COD: BO 6",
-    "Hip": 2,
+    "Game": "COD: Warzone +2.0",
+    "Hip": 4.03,
     "ADS": 1,
-    "FOV": 120,
-    "DPI": 1200,
-    "cm_per_360": null,
+    "FOV": 110,
+    "DPI": 700,
+    "cm_per_360": 49.1122,
     "Extras": null,
     "Mouse": null
   },
