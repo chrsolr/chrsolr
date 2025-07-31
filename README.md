@@ -22,7 +22,7 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 -- [[ My Workspace Environment ]]
 --
-[ Tools ] -> :|: NeoVim :|: Ghostty :|: Tmux :|: Linux
+[ Tools ] -> :|: NeoVim :|: Ghostty :|: Tmux :|: Linux & MacOS
 
 
 -- [[ Work Experience ]]
