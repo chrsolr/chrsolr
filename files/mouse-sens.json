@@ -11,11 +11,11 @@
   },
   {
     "Game": "Apex Legends",
-    "Hip": 1.21,
+    "Hip": 1.22,
     "ADS": 1,
     "FOV": 110,
     "DPI": 700,
-    "cm_per_360": 49.0716,
+    "cm_per_360": 48.6694,
     "Extras": "Superglide (Jump=1.0, Crouch=1.2)",
     "Mouse": "Viper"
   },
