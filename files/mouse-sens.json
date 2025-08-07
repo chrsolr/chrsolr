@@ -16,7 +16,7 @@
     "FOV": 110,
     "DPI": 700,
     "cm_per_360": 49.0716,
-    "Extras": null,
+    "Extras": "SuperGlide= (Jump=1.0, Crouch=1.2)",
     "Mouse": "Viper"
   },
   {
@@ -109,7 +109,7 @@
     "Extras": null,
     "Mouse": null
   },
-    {
+  {
     "Game": "Returnal",
     "Hip": 24,
     "ADS": 1,
