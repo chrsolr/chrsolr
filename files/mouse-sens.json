@@ -118,5 +118,15 @@
     "cm_per_360": 49.341,
     "Extras": null,
     "Mouse": null
+  },
+  {
+    "Game": "Battlefield 2042",
+    "Hip": 14,
+    "ADS": 1,
+    "FOV": 110,
+    "DPI": 700,
+    "cm_per_360": 42.234,
+    "Extras": null,
+    "Mouse": null
   }
 ]
