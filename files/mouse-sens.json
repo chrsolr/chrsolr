@@ -11,12 +11,12 @@
   },
   {
     "Game": "Apex Legends",
-    "Hip": 1.65,
+    "Hip": 1.98,
     "ADS": 1,
     "FOV": 110,
     "DPI": 700,
-    "cm_per_360":  35.98,
-    "Extras": "Superglide (Jump=1.0, Crouch=1.2)",
+    "cm_per_360": null,
+    "Extras": "Superglide (Jump=1.1, Crouch=1.3)",
     "Mouse": "Viper"
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "Game": "Battlefield 2042",
-    "Hip": 14,
+    "Hip": 9.3,
     "ADS": 1,
-    "FOV": 110,
+    "FOV": 105,
     "DPI": 700,
-    "cm_per_360": 42.234,
-    "Extras": null,
+    "cm_per_360": null,
+    "Extras": "ADS FOV=off",
     "Mouse": null
   }
 ]
