@@ -16,7 +16,7 @@
     "FOV": 110,
     "DPI": 700,
     "cm_per_360": null,
-    "Extras": "Superglide (Jump=1.1, Crouch=1.2)",
+    "Extras": "Superglide (Jump=0.8, Crouch=1.0)",
     "Mouse": "Viper"
   },
   {
