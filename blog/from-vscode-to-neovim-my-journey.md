@@ -1,7 +1,9 @@
+![]([https://i.imgur.com/wuKtuYc.jpg](https://raw.githubusercontent.com/chrsolr/chrsolr/refs/heads/main/images/blog-vscode-neovim.png))
+
 # From VS Code to Neovim: My Journey
 
 #### Christian Soler
-##### *March 23, 2016*
+##### *September 5, 2025*
 
 ---
 
