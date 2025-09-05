@@ -1,4 +1,9 @@
-# From VS Code to Neovim: My Journey  
+# From VS Code to Neovim: My Journey
+
+#### Christian Soler
+##### *March 23, 2016*
+
+---
 
 ## Early Editor Days  
 My journey to Neovim is probably not all that different from many other programmers’. Over the past 13 years as a developer (8 of them professional), I’ve experimented with a wide range of IDEs and text editors.  
