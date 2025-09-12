@@ -138,5 +138,15 @@
     "cm_per_360": null,
     "Extras": null,
     "Mouse": null
+  },
+  {
+    "Game": "Borderlands 4",
+    "Hip": 0.17,
+    "ADS": 0.17,
+    "FOV": 110,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
   }
 ]
