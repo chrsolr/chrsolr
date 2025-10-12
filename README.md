@@ -49,6 +49,7 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 ### Latest Articles
 
+- [From- VScode to Neovim My Journey](https://github.com/chrsolr/chrsolr/blob/main/blog%2Ffrom-vscode-to-neovim-my-journey.md) :|: September 5, 2025
 - [Show/Hide Bootstrap Navbar on Scroll](https://github.com/chrsolr/chrsolr/blob/main/blog/show-hide-bootstrap-navbar-on-scroll.md) :|: April 4, 2016
 - [Animate Bootstrap Menu Icon To (X)](https://github.com/chrsolr/chrsolr/blob/main/blog/animate-bootstrap-menu-icon-to-x.md) :|: March 23, 2016
 - [CoderCamps Bootcamp as a Student](https://github.com/chrsolr/chrsolr/blob/main/blog/codercamps-bootcamp-as-a-student.md) :|: July 11, 2015
