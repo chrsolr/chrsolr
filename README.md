@@ -15,8 +15,8 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 -- [[ About Me ]]
 --
 [ Name ] -> :|: Christian Soler
-[ Job Title ] -> :|: Software Engineer
-[ Location ] -> :|: Texas
+[ Job Title ] -> :|: Full Stack Engineer
+[ Location ] -> :|: Texas, USA
 [ From ] -> :|: Puerto Rico
 
 
