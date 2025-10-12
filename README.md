@@ -27,7 +27,8 @@ I am a dedicated Full Stack Developer with over six years of extensive experienc
 
 -- [[ Work Experience ]]
 --
-[ Full Stack Developer ] -> :|: Innowatts Inc :|: 2018-Current
+[ Full Stack Developer ] -> :|: GridX :|: 2025-Current
+[ Full Stack Developer ] -> :|: Innowatts Inc :|: 2018-2025
 [ Software Engineer ] -> :|: Preventice Solutions :|: 2015-2018
 [ ASP.NET Junior Full-Stack Developer ] -> :|: CoderCamps :|: 2014-2015
 
