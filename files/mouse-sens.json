@@ -148,5 +148,15 @@
     "cm_per_360": null,
     "Extras": null,
     "Mouse": null
+  },
+  {
+    "Game": "Arc Raiders",
+    "Hip": 30,
+    "ADS": 100,
+    "FOV": 80,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
   }
 ]
