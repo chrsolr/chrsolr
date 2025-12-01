@@ -160,10 +160,19 @@
     "Mouse": null
   },
   {
-    "Game": "Arc Raiders ",
+    "Game": "Arc Raiders",
     "Hip": 30,
     "ADS": 100,
     "FOV": 80,
+    "DPI": 700,
+    "cm_per_360": null,
+    "Extras": null,
+    "Mouse": null
+  },{
+    "Game": "Warframe",
+    "Hip": 4,
+    "ADS": 4,
+    "FOV": 90,
     "DPI": 700,
     "cm_per_360": null,
     "Extras": null,
