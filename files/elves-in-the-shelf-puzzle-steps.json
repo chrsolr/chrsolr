@@ -2,19 +2,19 @@
   {
     "step": 1,
     "code": "001",
-    "puzzle": "Elves in the Shelf",
+    "puzzle": ["Elves in the Shelf"],
     "hint": "Look for the hidden elves!"
   },
   {
     "step": 2,
     "code": "002",
-    "puzzle": "Santa's Secret",
+    "puzzle": ["Santa's Secret"],
     "hint": "Find Santa's secret workshop!"
   },
   {
     "step": 3,
     "code": "003",
-    "puzzle": "Reindeer Games",
+    "puzzle": ["Reindeer Games"],
     "hint": "Join the reindeer's fun activities!"
   }
 ]
