@@ -21,7 +21,7 @@
       "Another clue waits — if you read deep."
     ],
     "taunt": "Honestly, elf… did you even try?",
-    "hint": "Check a book or the bookshelf"
+    "hint": "Check a book"
   },
   {
     "step": 3,
@@ -33,7 +33,7 @@
       "But Cooki won’t be leaving — not from me."
     ],
     "taunt": "Mwahaha… blocked again!",
-    "hint": "Look near the front door or shoe area"
+    "hint": "Look near the front door"
   },
   {
     "step": 4,
@@ -75,13 +75,13 @@
     "step": 7,
     "code": "007",
     "puzzle": [
-      "Up he climbed, feeling bold,",
-      "Among stories, toys, and things of old.",
-      "Not the floor, not where you sit,",
-      "Higher still — that’s where he hid."
+      "Outside she ran, so bold and fast,",
+      "Thinking fresh air would help her last.",
+      "Metal waits where flames are fed,",
+      "Where food is cooked and lids are spread."
     ],
-    "taunt": "Afraid of heights now, elf?",
-    "hint": "Check a shelf"
+    "taunt": "Careful, elf — don’t get roasted!",
+    "hint": "Check the grill in the backyard"
   },
   {
     "step": 8,
@@ -105,19 +105,20 @@
       "Look up now — you're near his place."
     ],
     "taunt": "Almost there… don’t trip!",
-    "hint": "Check a high shelf or top spot"
+    "hint": "Check a high shelf"
   },
   {
     "step": 10,
     "code": "010",
     "puzzle": [
-      "Above the cars, above the ground,",
-      "Where dusty treasures all are found.",
-      "Not quite Arctic — but still high,",
-      "Up you go… don’t ask me why.",
-      "Cooki waits — tied up tight."
+      "This is the place where mischief began,",
+      "Cooki whispered her sneaky plan.",
+      "Not for cars, but tools and more,",
+      "Look for a door up off the floor.",
+      "Above this room her fate is sealed,",
+      "The trapped elf waits — completely revealed."
     ],
-    "taunt": "Game over, elf. Piggy wins!",
-    "hint": "Go to the attic above the garage"
+    "taunt": "You planned it here, Cooki… and here you fell.",
+    "hint": "Go to the attic door inside the garage"
   }
 ]
