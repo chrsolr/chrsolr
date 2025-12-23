@@ -2,19 +2,122 @@
   {
     "step": 1,
     "code": "001",
-    "puzzle": ["Elves in the Shelf"],
-    "hint": "Look for the hidden elves!"
+    "puzzle": [
+      "Brrr… poor Cooki thought cold was clever,",
+      "Hiding where frost lasts forever.",
+      "Doors hum softly, shelves gleam white,",
+      "He shook with fear all through the night."
+    ],
+    "taunt": "Nice try, elf — I knew you'd freeze!",
+    "hint": "Look where milk, juice, and ice live"
   },
   {
     "step": 2,
     "code": "002",
-    "puzzle": ["Santa's Secret", "Second Sentences.", "Thrid"],
-    "hint": "Find Santa's secret workshop!"
+    "puzzle": [
+      "Words can’t save him, stories won’t hide,",
+      "Cooki thought tales were a perfect disguise.",
+      "Between the lines where heroes sleep,",
+      "Another clue waits — if you read deep."
+    ],
+    "taunt": "Honestly, elf… did you even try?",
+    "hint": "Check a book or the bookshelf"
   },
   {
     "step": 3,
     "code": "003",
-    "puzzle": ["Reindeer Games"],
-    "hint": "Join the reindeer's fun activities!"
+    "puzzle": [
+      "He dreamed of escape, oh what a plan!",
+      "Past coats and shoes — run while you can!",
+      "In and out is where feet roam free,",
+      "But Cooki won’t be leaving — not from me."
+    ],
+    "taunt": "Mwahaha… blocked again!",
+    "hint": "Look near the front door or shoe area"
+  },
+  {
+    "step": 4,
+    "code": "004",
+    "puzzle": [
+      "Soft as clouds and low to the ground,",
+      "Cooki hid where bottoms are found.",
+      "Pillows whispered, cushions lied,",
+      "Lift them up — the truth’s inside."
+    ],
+    "taunt": "You’re warmer than Cooki ever was!",
+    "hint": "Check under or between couch cushions"
+  },
+  {
+    "step": 5,
+    "code": "005",
+    "puzzle": [
+      "Tick… tock… time betrays,",
+      "Every second gives Cooki away.",
+      "Where hands spin circles, never stop,",
+      "The next clue waits — right on the dot."
+    ],
+    "taunt": "Running out of time, elf!",
+    "hint": "Look near a clock"
+  },
+  {
+    "step": 6,
+    "code": "006",
+    "puzzle": [
+      "Socks and shirts all neatly stacked,",
+      "Cooki thought clothes had his back.",
+      "Drawers don’t lie, doors don’t scheme,",
+      "His hiding spot wasn’t very keen."
+    ],
+    "taunt": "Fashion fail, Cooki.",
+    "hint": "Look where clothes are kept"
+  },
+  {
+    "step": 7,
+    "code": "007",
+    "puzzle": [
+      "Up he climbed, feeling bold,",
+      "Among stories, toys, and things of old.",
+      "Not the floor, not where you sit,",
+      "Higher still — that’s where he hid."
+    ],
+    "taunt": "Afraid of heights now, elf?",
+    "hint": "Check a shelf"
+  },
+  {
+    "step": 8,
+    "code": "008",
+    "puzzle": [
+      "Light reveals what darkness keeps,",
+      "Cooki ran where shadow sleeps.",
+      "A switch, a glow, a sudden shine,",
+      "The next clue waits below the line."
+    ],
+    "taunt": "Surprise! I see everything.",
+    "hint": "Look near a lamp"
+  },
+  {
+    "step": 9,
+    "code": "009",
+    "puzzle": [
+      "Higher still — his bravest climb,",
+      "Cooki thought he'd run out my time.",
+      "Boxes watch from lofty space,",
+      "Look up now — you're near his place."
+    ],
+    "taunt": "Almost there… don’t trip!",
+    "hint": "Check a high shelf or top spot"
+  },
+  {
+    "step": 10,
+    "code": "010",
+    "puzzle": [
+      "Above the cars, above the ground,",
+      "Where dusty treasures all are found.",
+      "Not quite Arctic — but still high,",
+      "Up you go… don’t ask me why.",
+      "Cooki waits — tied up tight."
+    ],
+    "taunt": "Game over, elf. Piggy wins!",
+    "hint": "Go to the attic above the garage"
   }
 ]
