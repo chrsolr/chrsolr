@@ -41,13 +41,13 @@
   },
   {
     "Game": "EFT",
-    "Hip": 0.321,
-    "ADS": 0.321,
+    "Hip": 0.329,
+    "ADS": 0.329,
     "FOV": 75,
     "DPI": 700,
     "cm_per_360": null,
     "Extras": null,
-    "Mouse": null
+    "Mouse": "GPro OG"
   },
   {
     "Game": "Marvel Rival",
