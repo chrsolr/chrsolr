@@ -11,13 +11,13 @@
   },
   {
     "Game": "Apex Legends",
-    "Hip": 1.87,
-    "ADS": 1.33,
+    "Hip": 1.85,
+    "ADS": 1.3,
     "FOV": 110,
     "DPI": 700,
     "cm_per_360": null,
     "Extras": "Superglide (Jump=1.0, Crouch=1.3)",
-    "Mouse": "G-Pro OG"
+    "Mouse": "G-Pro X2"
   },
   {
     "Game": "COD: Warzone +2.0",
